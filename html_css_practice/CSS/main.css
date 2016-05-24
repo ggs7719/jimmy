@@ -1,0 +1,48 @@
+ul {
+	margin: 0;
+	padding-left: 0;
+}
+
+.container {
+	width: 1172px;
+	margin: 0 auto;
+}
+
+.clearfix{
+	clear: both;
+}
+
+#logo {
+	float: left;
+}
+
+#header nav {
+	float: right;
+}
+
+#header ul {
+	list-style: none;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#header nav li {
+	float: left;
+	line-height: 70px;
+}
+
+#header a {
+	display: block;
+	width: 85px;
+	text-decoration: none;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
